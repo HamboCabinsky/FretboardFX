@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FretboardFx
+comment0.text=\r\n\ \r\n\ @author\ Christian\ Bonin\r\n\ @version\ 1/3/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=gc
+comment3.target=void\ clearScreen(javafx.scene.canvas.GraphicsContext)
+comment4.params=gc
+comment4.target=void\ paintFretboard(javafx.scene.canvas.GraphicsContext)
+numComments=5
