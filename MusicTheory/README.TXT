@@ -1,3 +1,3 @@
 Made by Christian Bonin
-Commercial distribution not allowed
+Distribution not allowed
 Copyright 2020
